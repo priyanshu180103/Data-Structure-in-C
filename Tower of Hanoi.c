@@ -6,7 +6,7 @@ void TowerOfHanoi(int N, char S, char A, char D)
 { 
 if(N==1)
 {
-    printf("Move from tower %c to tower %c\n",S,D);
+printf("Move from tower %c to tower %c\n",S,D);
 c1++;
 }
 else
