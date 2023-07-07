@@ -6,7 +6,7 @@ struct student
 }s[5];
 int main()
 {
-    int i;
+     int i;
     printf("Enter the Information 5 stuednts");
     for(i=0;i<5;++i)
     {
