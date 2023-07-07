@@ -5,7 +5,8 @@ int c_queue[size],front,rear;
 void addc_queue();
 void delc_queue();
 void traverse();
-int main(){
+int main()
+{
  int ch;
  front=rear=-1;
  while(1){
