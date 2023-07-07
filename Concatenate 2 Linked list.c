@@ -2,8 +2,8 @@
 #include <stdlib.h>
 struct Node
 {
-    int data;
-    struct Node *next;
+   int data;
+   struct Node *next;
 } *temp = NULL, *first = NULL, *second = NULL;
 struct Node* Create(int A[], int n)
 {
