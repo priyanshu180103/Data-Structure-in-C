@@ -3,8 +3,8 @@
 #include<stdio.h>
 typedef struct stud
 {
-	int info;
-	struct stud *link;
+    int info;
+    struct stud *link;
 }Node;
 Node *start=NULL;
 void add_node(int);
