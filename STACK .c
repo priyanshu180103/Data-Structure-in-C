@@ -1,5 +1,4 @@
 #include<stdio.h>
-
 #include<stdlib.h>
  
 #define MAX 5 //Maximum number of elements that can be stored
